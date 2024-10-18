@@ -23,7 +23,7 @@ Hello! I'm Dylan. I'm a software developer with over 9 years professional experi
 
 
 ## 🧰 Languages and Tools
-Here are some of the tools and languages that I have experience with.
+Here are some of the languages and tools that I have experience with.
 <p align="center">
     <img align="centre" alt="CSharp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
     <img align="centre" alt="Cpp" width="50px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" /> 
